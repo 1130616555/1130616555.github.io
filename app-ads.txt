@@ -4,7 +4,7 @@ facebook.com, 293021091347322, DIRECT, c3e20eee3f780d68
 
 pangleglobal.com, 5001923, DIRECT
 
-digitalturbine.com, 218826, DIRECT
+digitalturbine.com,?218826, DIRECT
 
 applovin.com, f2124707adf7358ca6c242daa60daec8, DIRECT
 
